@@ -148,6 +148,17 @@ MonoBehaviour:
   ball: {fileID: 4803738439568453723, guid: ef7f45f562fed4940b8d891a8ea3dc88, type: 3}
   ballBig: {fileID: 4803738439568453723, guid: b7516d6d81dd31c44af5ec7ddbb50a19, type: 3}
   ballMid: {fileID: 4803738439568453723, guid: 6e1e1ab17a5d0ca49aabbbb775f4175e, type: 3}
+  fruitBalls:
+  - {fileID: 8980140582233683249, guid: 426b44a7575f71e479fab4f4e8431989, type: 3}
+  - {fileID: 8400832554362723514, guid: 2f2e54b9f3898eb46a0b47f9a4d4c52b, type: 3}
+  - {fileID: 257724224464371997, guid: 3ce32ffa6ccf60e4ab65d9e396f43433, type: 3}
+  - {fileID: -2360194879799344402, guid: 8f38e57a49b1c844081ad6bb3c553f13, type: 3}
+  - {fileID: -7499929038216036913, guid: 031f4f4b1f7d8b7489da0919e18ceac3, type: 3}
+  - {fileID: 9069812175132747922, guid: 4fe5a7bcbee1651418ea031a87ff53e4, type: 3}
+  - {fileID: -2425229027497363578, guid: 8c8c7d8f829a2d24ebe78eddb5eaff57, type: 3}
+  - {fileID: -5618270812285650548, guid: 0f3575c567ebe8241a4a6ad511fd7017, type: 3}
+  - {fileID: 8699113936814833377, guid: 63e523ab5d9ce7348b431ae1d689a54d, type: 3}
+  - {fileID: 3109996969629651609, guid: 573bb482e4baeec4386587db7cc07515, type: 3}
   wavesCount: 3
   backgroundsStr:
   - Assets/Resources/Textures/BG1.png
